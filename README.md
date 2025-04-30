@@ -1,4 +1,4 @@
-#  FemtoTX Landing Page for Project, Status & Updates
+# Solar FemtoTX Landing Page for Project, Status & Updates
 
 http://ei2030.github.io/FemtoTX
 
