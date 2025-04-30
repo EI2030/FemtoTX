@@ -2,6 +2,9 @@
 
 http://ei2030.github.io/FemtoTX
 
+![logo](https://github.com/user-attachments/assets/e79211f1-7553-461b-b372-d3404e3b29ff)
+
+
 ## Setup
 - Create a Github account (if you don't have one yet)
 - Fork this repository to copy it to your account, i.e. github.com/username/simple-website-template (you can rename it as well)
