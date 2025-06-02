@@ -1,6 +1,6 @@
 Linux distros that could run on FPGA and ARMv5
 ---
-may need a HAL for certain SoCs/FPGAs, other than the GPGA-specific core. 
+may need a HAL for certain SoCs/FPGAs, other than the FPGA-specific core. 
 
 
 https://www.luffca.com/2022/05/linux-litex-naxriscv32/ 
