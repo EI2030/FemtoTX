@@ -13,7 +13,7 @@ Vedula has completed synthesis of a ZAP processor on an Artix A7!:
 
 Vedula's notes:
 
-"Please see Save/ dir for Synthesis report3.
+"Please see Save/ dir for Synthesis report.
 
 Added a separate Readme for convenience."
 
