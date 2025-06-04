@@ -11,7 +11,10 @@ https://wiki.debian.org/ArmEabiPort
 
 https://bonslack.org/
 
-https://bonslack.org/bonslack_armv5te-14.2/ 2024-06-17 04:45- bonslack_armv5te-15.0/2025-05-11 12:12- bonslack_armv5te-current/2025-03-12 15:34- https://www.riscosopen.org/content/downloads/riscpc
+https://bonslack.org/bonslack_armv5te-14.2/
+https://bonslack.org/bonslack_armv5te-14.2/
+
+2024-06-17 04:45- bonslack_armv5te-15.0/2025-05-11 12:12- bonslack_armv5te-current/2025-03-12 15:34- https://www.riscosopen.org/content/downloads/riscpc
 
 https://www.oesf.org/repository/websites/tardis.tiny-vps.com/2022.01.08_arm/
 
