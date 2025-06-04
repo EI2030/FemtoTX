@@ -22,7 +22,7 @@ https://www.voipmonitor.org/doc/Debian_7.0_armv5 one link doesn't work
 
 SiV 300: https://digilent.com/reference/_media/reference/programmable-logic/arty-a7/arty_a7_100_risc_v/risc_v_1.jpg?cache=
 
-https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/embedded-software/petalinux-sdk.html
+https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/embedded-software/petalinux-sdk.html (not armv5 specific, but FPGA specific)
 
 https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18842250/PetaLinux
 
