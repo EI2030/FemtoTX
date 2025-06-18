@@ -18,6 +18,10 @@ A very very basic EthMAC access test i put in.
 3. Test bench is up with these modules. Ran few tests.
 ------------------------------------------------------
 
+Synthesis performed on an [ARTY A7 (Artix-A7) 100T](https://digilent.com/shop/arty-a7-100t-artix-7-fpga-development-board
+)
+
+![image](https://github.com/user-attachments/assets/f6aa6043-2df5-43c0-ad59-5b62f0fc2c57)
 
 6-06-2025 Update
 --
