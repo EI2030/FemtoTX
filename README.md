@@ -4,6 +4,21 @@ http://ei2030.github.io/FemtoTX
 
 ![logo](https://github.com/user-attachments/assets/e79211f1-7553-461b-b372-d3404e3b29ff)
 
+6-17-2025
+---
+
+Vedula says:
+
+1. I just created a tag, [solar_femtoTX_Milestone-1](https://github.com/srvedulageth/solar_femtoTx/releases/tag/solar_femtoTX_Milestone-1)
+
+A very very basic EthMAC access test i put in.
+
+1. SoC has ZAP core + EthMAC + UART(2 Instances) + Timer(2 Instances) + VIC(1 Instance)
+2. Synthesized SoC for Xilinx xc7a100tcsg324-1.
+3. Test bench is up with these modules. Ran few tests.
+------------------------------------------------------
+
+
 6-06-2025 Update
 --
 
