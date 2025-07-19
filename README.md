@@ -9,7 +9,7 @@ http://ei2030.github.io/FemtoTX
 
 Current Milestone 3: Simulating Linux
 
-Vedula is working on implementing the ZAP SoC on the FPGA Arty xc7a100tcsg324. A [Storm Core](https://github.com/freecores/storm_soc/tree/master) has been found to be completely implemented in an FPGA Altera, therefore we may switch to that core for implementation.  
+Vedula is working on implementing the ZAP SoC on the FPGA Arty xc7a100tcsg324. A [Storm Core (ARM7)]([https://github.com/freecores/storm_soc/blob/master/doc/STORM%20SoC%20-%20Datasheet%20and%20Implementation%20Guide.pdf]) has been found to be completely implemented in an FPGA w/ Altera, therefore we may switch to that core, add EthMac, and  implement that one instead.  
 
 6-17-2025
 ---
