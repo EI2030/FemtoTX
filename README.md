@@ -4,6 +4,13 @@ http://ei2030.github.io/FemtoTX
 
 ![logo](https://github.com/user-attachments/assets/e79211f1-7553-461b-b372-d3404e3b29ff)
 
+7-18-2025
+--
+
+Current Milestone 3: Simulating Linux
+
+Vedula is working on implementing the ZAP SoC on the FPGA Arty xc7a100tcsg324. A [Storm Core](https://github.com/freecores/storm_soc/tree/master) has been found to be completely implemented in an FPGA Altera, therefore we may switch to that core for implementation.  
+
 6-17-2025
 ---
 
