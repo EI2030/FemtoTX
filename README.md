@@ -14,6 +14,8 @@ http://ei2030.github.io/FemtoTX
 
 See [paper](https://github.com/EI2030/FemtoTX/blob/gh-pages/ARM%20compatible%20core%20paper.pdf) for background and candidate cores.
 
+FA526: https://www.innopower-tech.com/html/products/functional/FA5.jsp
+
 7-18-2025
 --
 
