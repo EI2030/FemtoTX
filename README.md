@@ -2,7 +2,18 @@
 
 http://ei2030.github.io/FemtoTX
 
+7-21-25
+--
+<img width="583" height="191" alt="ARM cores" src="https://github.com/user-attachments/assets/24c99442-2df0-4b88-bae4-fa8eb4cefcbf" />
+
+
 ![logo](https://github.com/user-attachments/assets/e79211f1-7553-461b-b372-d3404e3b29ff)
+
+<img width="464" height="211" alt="SVP" src="https://github.com/user-attachments/assets/d4c27619-f312-4620-85ca-20b2570e4b6b" />
+
+<img width="481" height="142" alt="corelang" src="https://github.com/user-attachments/assets/1e151bc2-f64b-4668-8668-0ca9c74ffa59" />
+
+
 
 7-18-2025
 --
