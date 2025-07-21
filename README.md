@@ -12,7 +12,7 @@ http://ei2030.github.io/FemtoTX
 
 <img width="481" height="142" alt="corelang" src="https://github.com/user-attachments/assets/1e151bc2-f64b-4668-8668-0ca9c74ffa59" />
 
-
+See [paper](https://github.com/EI2030/FemtoTX/blob/gh-pages/ARM%20compatible%20core%20paper.pdf) for background and candidate cores.
 
 7-18-2025
 --
