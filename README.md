@@ -9,7 +9,15 @@ http://ei2030.github.io/FemtoTX
 
 https://www.allaboutcircuits.com/ip-cores/all/P720/ Other ISAs that may be of use/complement ZAP core
 
-https://github.com/stnolting/neorv32
+https://github.com/stnolting/neorv32 
+
+https://www.allaboutcircuits.com/ip-cores/processor/
+
+https://www.allaboutcircuits.com/ip-cores/processor/arm4u/  https://github.com/freecores/arm4u
+
+https://www.allaboutcircuits.com/ip-cores/processor/aor3000/ https://github.com/alfikpl/aoR3000
+
+
 
 7-21-25
 --
