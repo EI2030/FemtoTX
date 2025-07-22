@@ -4,6 +4,13 @@ http://ei2030.github.io/FemtoTX
 
 ![logo](https://github.com/user-attachments/assets/e79211f1-7553-461b-b372-d3404e3b29ff)
 
+7-22-25
+--
+
+https://www.allaboutcircuits.com/ip-cores/all/P720/ Other ISAs that may be of use/complement ZAP core
+
+https://github.com/stnolting/neorv32
+
 7-21-25
 --
 
