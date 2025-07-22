@@ -2,9 +2,10 @@
 
 http://ei2030.github.io/FemtoTX
 
+![logo](https://github.com/user-attachments/assets/e79211f1-7553-461b-b372-d3404e3b29ff)
+
 7-21-25
 --
-![logo](https://github.com/user-attachments/assets/e79211f1-7553-461b-b372-d3404e3b29ff)
 
 <img width="583" height="191" alt="ARM cores" src="https://github.com/user-attachments/assets/24c99442-2df0-4b88-bae4-fa8eb4cefcbf" />
 
