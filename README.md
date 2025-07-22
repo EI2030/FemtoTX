@@ -17,6 +17,12 @@ https://www.allaboutcircuits.com/ip-cores/processor/arm4u/  https://github.com/f
 
 https://www.allaboutcircuits.com/ip-cores/processor/aor3000/ https://github.com/alfikpl/aoR3000
 
+https://www.allaboutcircuits.com/ip-cores/processor/mips-enhanced/ 
+
+https://opencores.org/projects/mips789
+
+https://github.com/freecores/mips789/tree/master/core
+
 
 
 7-21-25
