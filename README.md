@@ -11,6 +11,7 @@ Vedula has completed synthesis and loading of the FPGA with UART & ZAP Core. He 
 
 <img width="1068" height="1907" alt="image" src="https://github.com/user-attachments/assets/066c5b60-9b8e-49a5-8df0-11291bd39cb7" />
 
+<video src="[https://github.com/EI2030/FemtoTX/blob/gh-pages/46795Edc-A1a3-426F-9B72-F7034126d822.mp4]" width="300" />
 This step was an intermediate stage before he can begin booting linux, which he will work on next. 
 
 7-22-25
