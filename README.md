@@ -4,6 +4,15 @@ http://ei2030.github.io/FemtoTX
 
 ![logo](https://github.com/user-attachments/assets/e79211f1-7553-461b-b372-d3404e3b29ff)
 
+8-13-25
+--
+
+Vedula has completed synthesis and loading of the FPGA with UART & ZAP Core. He made an LED test, which shows 3 continuously lit LEDs, and one blinking. He connected UART Tx (output from ZAP SoC), and whwnever he presses a key, the LED comes back as it was connected to tx_0, which is the blinking LED.
+
+<img width="1068" height="1907" alt="image" src="https://github.com/user-attachments/assets/066c5b60-9b8e-49a5-8df0-11291bd39cb7" />
+
+This step was an intermediate stage before he can begin booting linux, which he will work on next. 
+
 7-22-25
 --
 
