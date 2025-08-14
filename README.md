@@ -7,7 +7,7 @@ http://ei2030.github.io/FemtoTX
 8-13-25
 --
 
-Vedula has completed synthesis and loading of the FPGA with UART & ZAP Core. He made an LED test, which shows 3 continuously lit LEDs, and one blinking. He connected UART Tx (output from ZAP SoC), and whenever he presses a key, the LED comes back as it was connected to tx_0, which is the blinking LED.
+Vedula has completed [synthesis](https://github.com/srvedulageth/solar_femtoTx/tree/solar_femtoTX_ms2/src) and loading of the FPGA with UART & ZAP Core. He made an LED test, which shows 3 continuously lit LEDs, and one blinking. He connected UART Tx (output from ZAP SoC), and whenever he presses a key, the LED comes back as it was connected to tx_0, which is the blinking LED.
 
 https://github.com/user-attachments/assets/a891d421-b59e-4ba2-997c-f307857429f3
 
