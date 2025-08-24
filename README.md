@@ -17,7 +17,7 @@ the [ZAP core](https://github.com/krevanth/ZAP?tab=readme-ov-file#1-introduction
 https://en.wikipedia.org/wiki/Transistor_count#Microprocessors
 
 https://www.techrxiv.org/users/814616/articles/1270555-a-heuristic-method-for-designing-solar-circuits
-Estimating the power consumption can be tricky. At 130nm, 22nm, and 3nm. The budget of this project will allow 130nm, but it's unclear how much funding would be needed for 22nm, and eDRAM
+Estimating the power consumption can be tricky. At 130nm, 22nm, and 3nm. The budget of this project will allow 130nm, but it's unclear how much funding would be [needed](https://private-user-images.githubusercontent.com/76194453/472805826-5832b85e-3557-4ee9-b29a-1bd89633fc49.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYwNTIxMDksIm5iZiI6MTc1NjA1MTgwOSwicGF0aCI6Ii83NjE5NDQ1My80NzI4MDU4MjYtNTgzMmI4NWUtMzU1Ny00ZWU5LWIyOWEtMWJkODk2MzNmYzQ5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODI0VDE2MTAwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI4ZGU1ZGYxMjM1M2VhMTRhNzFhNjMzYTU4NWJmNzQ1ZjUzMGUzOWY4MDMwNDA2ZjU1ZjNlODg2YWNlZjcwZmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9WhTfnsIz_mWtFRyQu0CIaWyyPlV3ahqx-uBLqk2uCU) for [22nm](https://www.linkedin.com/posts/ali-kamaly_semiconductors-chipdesign-validation-activity-7355930371999383553-wzxl/), and eDRAM
 
 https://www.musesemi.com/full-block-tapeout-pricing
 https://www.cmc.ca/globalfoundries-22fdx-fdsoi-22-nm/ 
