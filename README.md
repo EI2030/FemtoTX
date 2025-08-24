@@ -6,12 +6,24 @@ http://ei2030.github.io/FemtoTX
 
 8-24-25
 --
+the [ZAP core](https://github.com/krevanth/ZAP?tab=readme-ov-file#1-introduction) has cache:
+
+<img width="902" height="451" alt="image" src="https://github.com/user-attachments/assets/b0ad6ef5-db45-4c04-809b-cc24eb7f7f1a" />
+
 <img width="959" height="93" alt="image" src="https://github.com/user-attachments/assets/a7f9cce9-b584-4fd9-99a4-c2c721b2497e" />
 
 <img width="961" height="1843" alt="image" src="https://github.com/user-attachments/assets/5e724366-9dce-4f93-8a17-084d973445e6" />
 
 https://en.wikipedia.org/wiki/Transistor_count#Microprocessors
 
+https://www.techrxiv.org/users/814616/articles/1270555-a-heuristic-method-for-designing-solar-circuits
+Estimating the power consumption can be tricky. At 130nm, 22nm, and 3nm. The budget of this project will allow 130nm, but it's unclear how much funding would be needed for 22nm, and eDRAM
+
+https://www.musesemi.com/full-block-tapeout-pricing
+https://www.cmc.ca/globalfoundries-22fdx-fdsoi-22-nm/ 
+https://www.src.org/calendar/e003676/barth.pdf
+
+<img width="386" height="172" alt="image" src="https://github.com/user-attachments/assets/625813ba-012e-49e3-8062-72cfbdc2fe55" />
 
 
 8-13-25
