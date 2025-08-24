@@ -4,6 +4,16 @@ http://ei2030.github.io/FemtoTX
 
 ![logo](https://github.com/user-attachments/assets/e79211f1-7553-461b-b372-d3404e3b29ff)
 
+8-24-25
+--
+<img width="959" height="93" alt="image" src="https://github.com/user-attachments/assets/a7f9cce9-b584-4fd9-99a4-c2c721b2497e" />
+
+<img width="961" height="1843" alt="image" src="https://github.com/user-attachments/assets/5e724366-9dce-4f93-8a17-084d973445e6" />
+
+https://en.wikipedia.org/wiki/Transistor_count#Microprocessors
+
+
+
 8-13-25
 --
 
