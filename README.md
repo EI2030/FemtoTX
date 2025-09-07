@@ -4,6 +4,15 @@ http://ei2030.github.io/FemtoTX
 
 ![logo](https://github.com/user-attachments/assets/e79211f1-7553-461b-b372-d3404e3b29ff)
 
+9-6-25
+--
+
+VS reports:
+1. Checked in code with EthMAC integrated.
+2. Implemented SoC with Ethmac. No errors and able to transfer on uart.
+3. Next Task
+    Write Driver for EthMAC. 
+
 8-24-25
 --
 the [ZAP core](https://github.com/krevanth/ZAP?tab=readme-ov-file#1-introduction) has cache:
