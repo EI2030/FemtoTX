@@ -4,6 +4,11 @@ http://ei2030.github.io/FemtoTX
 
 ![logo](https://github.com/user-attachments/assets/e79211f1-7553-461b-b372-d3404e3b29ff)
 
+10-25-2025
+--
+
+Vedula has completed EthMac Tx. He sent data from the ZAP SoC to his Windows desktop and captured the Tx using Wireshark. He will test Rx now and then work on booting linux.
+
 9-6-25
 --
 
