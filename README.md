@@ -4,6 +4,18 @@ http://ei2030.github.io/FemtoTX
 
 ![logo](https://github.com/user-attachments/assets/e79211f1-7553-461b-b372-d3404e3b29ff)
 
+
+11-05-2025
+--
+
+Vedula has completed TX and RX continuous testing.
+
+![WhatsApp Image 2025-11-05 at 11 00 50 AM](https://github.com/user-attachments/assets/539316e9-e3c2-46cd-8ed2-8a8dd81f1334)
+
+https://youtu.be/E1b18wrB_ZA 
+
+Next up: validation on FPGA of full duplex.
+
 10-25-2025
 --
 
