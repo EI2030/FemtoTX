@@ -8,7 +8,7 @@ http://ei2030.github.io/FemtoTX
 11-05-2025
 --
 
-Vedula has completed TX and RX continuous testing.
+Vedula has completed TX and RX continuous testing!
 
 ![WhatsApp Image 2025-11-05 at 11 00 50 AM](https://github.com/user-attachments/assets/539316e9-e3c2-46cd-8ed2-8a8dd81f1334)
 
