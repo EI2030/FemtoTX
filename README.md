@@ -12,6 +12,8 @@ Vedula has completed TX and RX continuous testing.
 
 ![WhatsApp Image 2025-11-05 at 11 00 50 AM](https://github.com/user-attachments/assets/539316e9-e3c2-46cd-8ed2-8a8dd81f1334)
 
+https://github.com/user-attachments/assets/7d4f2f48-4a5c-43dc-9d0d-9d9809e34246
+
 https://youtu.be/E1b18wrB_ZA 
 
 Next up: validation on FPGA of full duplex.
@@ -22,7 +24,6 @@ Next up: validation on FPGA of full duplex.
 Vedula has completed EthMac Tx. He sent data from the ZAP SoC to his Windows desktop and captured the Tx using Wireshark. He will test Rx now and then work on booting linux.
 
 ![WhatsApp Image 2025-10-24 at 4 00 12 PM](https://github.com/user-attachments/assets/2a87f70f-0524-4bfa-b7f0-e1fddcb6d0fd)
-
 
 9-6-25
 --
