@@ -5,6 +5,13 @@ http://ei2030.github.io/FemtoTX
 ![logo](https://github.com/user-attachments/assets/e79211f1-7553-461b-b372-d3404e3b29ff)
 
 
+11-26-2025
+
+Vedula has reported pings work, while timeouts occur. As of 12-3, he is currently debugging. 
+
+![IMG_2649](https://github.com/user-attachments/assets/65e57f84-c8b2-4f90-826b-44b6933a477c)
+
+
 11-05-2025
 --
 
