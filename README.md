@@ -4,6 +4,10 @@ http://ei2030.github.io/FemtoTX
 
 ![logo](https://github.com/user-attachments/assets/e79211f1-7553-461b-b372-d3404e3b29ff)
 
+1-20-2025
+--
+
+Vedula says, "I am able to get simulation working with DRAM and testing on emulation."
 
 1-16-2026
 --
