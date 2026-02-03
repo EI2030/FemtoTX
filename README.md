@@ -4,6 +4,11 @@ http://ei2030.github.io/FemtoTX
 
 ![logo](https://github.com/user-attachments/assets/e79211f1-7553-461b-b372-d3404e3b29ff)
 
+2-3-2026
+--
+
+Several pull requests have been merged https://github.com/srvedulageth/solar_femtoTx/pull/4
+
 2-2-2026
 --
 
